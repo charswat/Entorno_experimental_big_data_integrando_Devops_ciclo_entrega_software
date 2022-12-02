@@ -1,4 +1,4 @@
-# Spark Cluster Management
+# Cluster spark, hadoop integrated with jupyter lab and devops in software delivery cycle
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/sixafter/aws-spark-cluster-management/blob/master/LICENSE)
 
