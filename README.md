@@ -1,10 +1,11 @@
 # Cluster spark, hadoop integrated with jupyter lab and devops in software delivery cycle
 Implementation of an architecture for a distributed data processing cluster, integrating Devops into a continuous software delivery stream; through an automated deployment of big data processing infrastructure as code in the cloud.
 ## Archtecture
-![image](https://user-images.githubusercontent.com/72947118/205747955-eca97c3f-7fb1-4194-808f-55673e1e187c.png)
+![image](https://user-images.githubusercontent.com/72947118/205776726-6d9d96c9-5c04-44b1-8bf5-dfe605d8d477.png)
 
 ## Student interaction with architecture
-![image](https://user-images.githubusercontent.com/72947118/205748115-cd9dacc2-11e3-417d-9a88-75b100556d1c.png)
+![image](https://user-images.githubusercontent.com/72947118/205776817-5e31ce91-b6cb-4e4d-8040-71222e79bae6.png)
+
 
 ## Usage
 
